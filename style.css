@@ -313,6 +313,13 @@ body{
      height: 300px;
     }
 }
+@media(max-widht:448px){
+    .icon{
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: row;
+    }
+}
 
 
 
